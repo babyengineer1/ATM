@@ -1,7 +1,8 @@
 # ATM
  ATM Code
  
-**ATM Code in JavaScript**
+**ATM Code in JavaScript**\n
+
 It is a simple implementation of an ATM code system using JavaScript programming language. The program prompts users to input their ATM code and verifies if it matches the stored code.
 Getting Started
 You need a text editor and a web browser installed on your computer to use this program. You can download and install any text editor, such as VS Code, Sublime Text, or Atom, and a web browser, such as Google Chrome, Mozilla Firefox, or Safari.
